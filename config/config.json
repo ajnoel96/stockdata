@@ -1,0 +1,13 @@
+{
+    "alpha_vantage_api_key": "JZRG4QP4RYWMR3AT",
+    "symbol": "AAPL",
+    "kafka_bootstrap_servers": [ "localhost:9092" ],
+    "topic_name": "stockdata",
+    "interval": 7200,
+    "database_name": "stock_data",
+    "database_user": "avery_noel",
+    "database_password": "stockdata",
+    "database_host": "localhost",
+    "database_port": 5432
+}
+
